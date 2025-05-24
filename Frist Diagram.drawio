@@ -22,8 +22,14 @@
         <mxCell id="_frq0jZMG13gogaR1sWF-1" value="Read : A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_frq0jZMG13gogaR1sWF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_frq0jZMG13gogaR1sWF-3" target="_frq0jZMG13gogaR1sWF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_frq0jZMG13gogaR1sWF-3" value="Enter Second NO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_frq0jZMG13gogaR1sWF-7" value="Read : B" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
