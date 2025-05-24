@@ -31,6 +31,12 @@
         <mxCell id="_frq0jZMG13gogaR1sWF-7" value="Read : B" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_frq0jZMG13gogaR1sWF-9" value="Enter Third NO&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_frq0jZMG13gogaR1sWF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_frq0jZMG13gogaR1sWF-7" target="_frq0jZMG13gogaR1sWF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
